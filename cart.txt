@@ -1,1 +1,1 @@
-Cart: Rice, Sugar, Oil
+Cart: Rice, Sugar, Oil, Milk
